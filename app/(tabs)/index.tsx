@@ -16,7 +16,7 @@ export default function HomeScreen() {
         />
       }>
       <ThemedView style={styles.titleContainer}>
-        <ThemedText type="title">Welcome! From Kodaschool</ThemedText>
+        <ThemedText type="title">Welcome! From Cliff Gor</ThemedText>
         <HelloWave />
         <Button  
         title="Learn More"
