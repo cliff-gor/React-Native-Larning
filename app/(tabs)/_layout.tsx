@@ -35,6 +35,14 @@ export default function Layout() {
             title: 'Social Sharing Page',
           }}
         />
+
+        <Drawer.Screen
+          name="workingwithAsyncStorage"
+          options={{
+            drawerLabel: 'Async Storage',
+            title: 'Working with Async Storage',
+          }}
+        />
       </Drawer>
 
 
